@@ -57,6 +57,8 @@ print("My web server is running on port 8000...")
 httpd.serve_forever()
 ```
 # OUTPUT:
+![alt text](<Screenshot 2025-04-28 215448.png>)
+
 ![alt text](<Screenshot 2025-04-09 221204.png>)
 
 # RESULT:
